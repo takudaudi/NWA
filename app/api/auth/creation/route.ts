@@ -32,5 +32,5 @@ export async function GET() {
     });
   }
 
-  return NextResponse.redirect("https://localhost:3000/");
+  return NextResponse.redirect("https://nwa-nine.vercel.app/");
 }
